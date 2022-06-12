@@ -1,2 +1,2 @@
 ## PostgresSQL User Management Service Serializer/Migration tool:
-This application is intended for personal use but feel free to use/critique.
+Shape large amounts of data into psql inserts. Adjust source & build as needed.
