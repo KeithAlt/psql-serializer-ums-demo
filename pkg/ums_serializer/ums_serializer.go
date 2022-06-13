@@ -89,7 +89,7 @@ func Generate() string {
 	pfps := readFileContents(fakePfps)
 	dbTable := "user_member"
 	psqlHeader := "INSERT INTO " + dbTable + " (id, name, email, user_role, phone, image_url, user_secret) VALUES\n"
-	psqlQuery := psqlHeader
+	psqlQuery := ""
 
 	for i := 0; i < 99; i++ {
 		p := CreateProfile(
@@ -101,7 +101,7 @@ func Generate() string {
 			pfps[i],
 			"a89vsad0ansaodjsa90vas0dmfnfslalkasmdv",
 		)
-		psqlQuery = psqlQuery + p.GenPsqlValuesInsert() + "\n"
+		psqlQuery = psqlQuery + psqlHeader + p.GenPsqlValuesInsert() + "\n"
 	}
 
 	return psqlQuery
