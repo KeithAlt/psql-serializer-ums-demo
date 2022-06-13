@@ -1,11 +1,11 @@
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
-('0', 'Sofia Lowe', 'corkery.corrine@schneider.com', 'Merchant navy personnel', '(562) 246-7846', 'https://i.postimg.cc/7hGxR500/28.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
+('0', 'Sofia Lowe', 'corkery.corrine@schneider.com', 'Merchant', '(562) 246-7846', 'https://i.postimg.cc/7hGxR500/28.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
 ('1', 'Erik Lubowitz', 'susan52@yahoo.com', 'Doorman', '(573) 248-0225', 'https://i.postimg.cc/qBSB3GHL/30.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
 ('2', 'Willow Barton', 'darrel.boyer@gmail.com', 'Counsellor', '(205) 107-7163', 'https://i.postimg.cc/vDwdS3Qw/41.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
-('3', 'Ezequiel Altenwerth', 'bethany78@bradtke.biz', 'Merchant navy personnel', '(465) 538-6730', 'https://i.postimg.cc/4NcfbhJT/32.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
+('3', 'Ezequiel Altenwerth', 'bethany78@bradtke.biz', 'Medical Assistant', '(465) 538-6730', 'https://i.postimg.cc/4NcfbhJT/32.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
 ('4', 'Mallie Ruecker', 'kwilderman@gmail.com', 'Catering staff', '(741) 010-7113', 'https://i.postimg.cc/9XRRK0WL/40.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
@@ -117,13 +117,13 @@ INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secr
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
 ('58', 'Macie Kassulke', 'senger.arthur@grady.com', 'Flower arranger', '(301) 318-3853', 'https://i.postimg.cc/Gm1cMh2T/34.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
-('59', 'Uriel Shanahan', 'mellie.schmeler@hotmail.com', 'Merchant navy personnel', '(244) 027-8182', 'https://i.postimg.cc/Bvm4QTC2/33.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
+('59', 'Uriel Shanahan', 'mellie.schmeler@hotmail.com', 'Accountant', '(244) 027-8182', 'https://i.postimg.cc/Bvm4QTC2/33.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
 ('60', 'Nyah Kautzer', 'patience.vonrueden@beahan.com', 'Doorman', '(204) 736-1321', 'https://i.postimg.cc/7hGxR500/28.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
 ('61', 'Felicity Daniel', 'floy65@yahoo.com', 'Counsellor', '(657) 358-5784', 'https://i.postimg.cc/qBSB3GHL/30.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
-('62', 'Telly Abshire', 'lloyd96@hartmann.com', 'Merchant navy personnel', '(573) 707-6264', 'https://i.postimg.cc/vDwdS3Qw/41.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
+('62', 'Telly Abshire', 'lloyd96@hartmann.com', 'Curator', '(573) 707-6264', 'https://i.postimg.cc/vDwdS3Qw/41.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
 ('63', 'Ms. Werner Dicki', 'salvador75@rice.com', 'Catering staff', '(280) 637-7514', 'https://i.postimg.cc/4NcfbhJT/32.png', 'a89vsad0ansaodjsa90vas0dmfnfslalkasmdv');
 INSERT INTO user_member (id, name, email, user_role, phone, image_url, user_secret) VALUES
